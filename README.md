@@ -13,11 +13,13 @@ A lightweight, terminal-based night sky screensaver built with **Rust**. Watch t
 - **Resource Efficient**: Written in Rust for minimal CPU usage—perfect for background aesthetics.
 
 ## 🚀 Installation (reccomended)
+
+### From Aur (reccomended)
+
 ```bash
 paru -S askyy
 ```
 alternatively use yay instead of paru
-### From Aur (reccomended)
 
 ### From Source
 Make sure you have `cargo` installed:
