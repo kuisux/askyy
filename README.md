@@ -22,6 +22,7 @@ git clone [https://github.com/kuisux/askyy](https://github.com/kuisux/askyy)
 cd askyy
 cargo build --release
 sudo cp target/release/askyy /usr/local/bin/
+```
 
 Arch Linux (User Tip)
 
@@ -32,22 +33,13 @@ cargo install --path .
 
 ⌨️ Usage
 
-Simply run the command to start the screensaver:
-Bash
+Simply run the command  to start the screensaver:
+```Bash
 
 askyy
-
+```
     Press q or Ctrl+C to exit and return to your terminal.
 
-🛠️ Configuration (Coming Soon)
-
-Future updates will allow for:
-
-    Star density control.
-
-    Custom colors (Matugen support).
-
-    Shooting star frequency.
 
 🤝 Contributing
 
