@@ -12,9 +12,14 @@ A lightweight, terminal-based night sky screensaver built with **Rust**. Watch t
 - **Terminal Agnostic**: Works in any modern terminal (Alacritty, Kitty, Foot, etc.).
 - **Resource Efficient**: Written in Rust for minimal CPU usage—perfect for background aesthetics.
 
-## 🚀 Installation
+## 🚀 Installation (reccomended)
+```bash
+paru -S askyy
+```
+alternatively use yay instead of paru
+### From Aur (reccomended)
 
-### From Source (Recommended)
+### From Source
 Make sure you have `cargo` installed:
 
 ```bash
@@ -23,13 +28,6 @@ cd askyy
 cargo build --release
 sudo cp target/release/askyy /usr/local/bin/
 ```
-
-Arch Linux (User Tip)
-
-If you're on Arch, you can run it directly using cargo:
-Bash
-
-cargo install --path .
 
 ⌨️ Usage
 
