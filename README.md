@@ -25,7 +25,7 @@ alternatively use yay instead of paru
 Make sure you have `cargo` installed:
 
 ```bash
-git clone [https://github.com/kuisux/askyy](https://github.com/kuisux/askyy)
+git clone https://github.com/kuisux/askyy
 cd askyy
 cargo build --release
 sudo cp target/release/askyy /usr/local/bin/
