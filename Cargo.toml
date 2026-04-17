@@ -1,0 +1,8 @@
+[package]
+name = "askyy"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.28"
+rand = "0.8"
