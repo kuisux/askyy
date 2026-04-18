@@ -1,4 +1,4 @@
-# 🌌 askyy
+# 🟅 askyy
 
 A lightweight, terminal-based night sky screensaver built with **Rust**. Watch the stars twinkle and shooting stars streak across your terminal window.
 
