@@ -5,14 +5,14 @@ A lightweight, terminal-based night sky screensaver built with **Rust**. Watch t
 [![Rust](https://img.shields.io/badge/language-rust-orange.svg)](https://www.rust-lang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## ✨ Features
+## Features
 
 - **Twinkling Stars**: A procedurally generated night sky that feels alive.
 - **Shooting Stars**: Rare, elegant streaks that cross your terminal at random intervals.
 - **Terminal Agnostic**: Works in any modern terminal (Alacritty, Kitty, Foot, etc.).
 - **Resource Efficient**: Written in Rust for minimal CPU usage—perfect for background aesthetics.
 
-## 🚀 Installation (reccomended)
+## Installation (reccomended)
 
 ### From Aur (reccomended)
 
@@ -42,9 +42,9 @@ askyy
     Press q or Ctrl+C to exit and return to your terminal.
 
 
-🤝 Contributing
+ Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-📜 License
+ License
 
 This project is MIT licensed.
